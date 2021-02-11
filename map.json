@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/kRLqOwqSMeQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/www.youtube.com\/embed\/kRLqOwqSMeQ"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
